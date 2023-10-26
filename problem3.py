@@ -32,5 +32,3 @@ if __name__ == "__main__":
         if i != n[-1]:
             print(", ", end="")
     else: print()
-
-    

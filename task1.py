@@ -5,9 +5,7 @@ def sum(a,b):
     # a : float 
     # b : float
     # return value: returns the sum of the 2 numbers
-    return
-
-
+    return round(a + b, 2)
 
 if __name__ == "__main__":
     print("This is my program")
